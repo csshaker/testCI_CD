@@ -8,3 +8,8 @@ def isEven(number):
         return True
     else:
         return False
+
+def printInvoice(invoice):
+    print(invoice)
+
+    
