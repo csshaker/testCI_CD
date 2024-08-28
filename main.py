@@ -12,4 +12,10 @@ def isEven(number):
 def printInvoice(invoice):
     print(invoice)
 
+class Student:
+    def __init__(self, id, name, gpa):
+        self.name = name
+        self.id = id
+        self.gpa = gpa
+
     
